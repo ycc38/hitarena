@@ -1,0 +1,30 @@
+# Android/Gradle build output and machine-local configuration
+**/.gradle/
+**/build/
+**/local.properties
+**/.idea/
+*.iml
+*.apk
+*.aab
+
+# Python caches and local environments
+**/__pycache__/
+*.py[cod]
+**/.venv/
+**/venv/
+
+# Secrets and deployment-specific environment files
+**/.env
+!**/.env.example
+server/
+*serverset*.txt
+*.pem
+*.key
+
+# Editor/OS/temp files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+

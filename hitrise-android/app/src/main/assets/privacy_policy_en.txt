@@ -1,0 +1,45 @@
+HitArena Privacy Policy
+Version: V2.0
+Effective: September 28, 2026
+
+1. Scope
+HitArena is provided by Shaoxing Weimai Technology Co., Ltd. for multiplayer boxing competitions. This policy explains how information is handled for Bluetooth connections, match timing and scoring, competition results and rankings, HitArena device certification, and related services.
+
+2. Information We Process
+We may process an app-generated user identifier, sync code, device summary, app and system version, language and other settings; player names or nicknames you enter; Bluetooth device name, connection and transport status, battery information, and device address; and match rules, timing, punch counts, punch-by-punch relative force and timing, valid and invalid hits, results, ranks, and awards. A device address is uploaded only as a non-plain-text hash for an eligible match; the original address is not uploaded.
+
+3. Match Upload Is Your Choice
+“Match Data Upload” under Competition Settings is off by default. While it is off, new match records remain on your phone, are not written to the HitArena cloud match database, and do not enter trusted online rankings.
+
+Upload becomes available only after you read the notice and select “Agree & Enable.” You can turn it off at any time. Turning it off stops new uploads and removes unfinished local upload tasks; it does not automatically delete data already uploaded.
+
+Even after you opt in, a complete match is uploaded only when every sensor actually used in that match is manufacturer-certified by HitArena, device-to-target assignments remain consistent, and the cloud service validates completeness and recalculates the score. If any sensor is uncertified, certification cannot be confirmed, data or connections are incomplete, validation fails, or you have not opted in, that match remains local only.
+
+Certification records are entered and maintained by the manufacturer based on Bluetooth names and device details. The app can only query and display certification; users cannot create or change it.
+
+4. Data Sent for an Eligible Match
+After both user consent and full sensor certification are satisfied, the app may send the match ID and time, match rules and parameters, player nicknames, Bluetooth names, hashed device addresses and transport type, punch-by-punch relative force and timing, round statistics, results, ranks, and awards. The server recalculates and validates results from the underlying match data.
+
+Trusted rankings may show player nickname, match category, score, rank, match time, and certification status. Original Bluetooth addresses are not displayed.
+
+5. Other Network Functions
+The app may access the network for account or installation authentication, service security, downloading public rankings, policies, or required resources. These necessary requests are not the same as uploading a complete match. The Match Data Upload option specifically controls complete match records and entry into trusted rankings.
+
+6. Permissions and Storage
+Bluetooth permissions are used to scan, connect, and receive sensor data under the existing device filtering rules. Some Android versions associate Bluetooth scanning with location permission; HitArena does not use that permission to record your location history. Network permission supports necessary services, certification checks after opt-in, and eligible match uploads.
+
+Settings, Bluetooth assignments, player nicknames, your upload choice, and local results are stored on the phone. Uninstalling or clearing app data may remove them. Eligible uploaded records are retained for trusted rankings, dispute review, security, and legal requirements for as long as necessary for those purposes.
+
+7. Sharing, Security, and Your Rights
+We do not sell personal information. Bound service providers may process only the minimum information needed for hosting, networking, or security. We use reasonable controls such as access restriction, service isolation, transmission safeguards, address hashing, server-side certification validation, and audit logs.
+
+You can change the upload choice at any time. You may contact us to request access, correction, or deletion of cloud information where applicable; identity and match ownership verification may be required.
+
+8. Children and Sports Safety
+Minors should use HitArena under guardian supervision. Relative force is the sensor's raw score and has no kilogram, kilogram-force, or newton unit. It is intended only for comparison under HitArena rules and is not medical advice or an official sports ruling.
+
+9. Updates and Contact
+We may update this policy for product, legal, or operational changes and will provide reasonable notice of material changes.
+
+Operator: Shaoxing Weimai Technology Co., Ltd.
+Email: zclei@vip.sina.com

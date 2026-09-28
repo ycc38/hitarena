@@ -1,0 +1,35 @@
+Politique de confidentialité HitArena
+Version : V2.0
+Date d'effet : 28 septembre 2026
+
+1. Objet
+HitArena, fourni par Shaoxing Weimai Technology Co., Ltd., est destiné aux compétitions de boxe multijoueurs. Cette politique décrit le traitement des informations pour le Bluetooth, le chronométrage, le score, les résultats, les classements et la certification des appareils.
+
+2. Données traitées
+L'application peut traiter un identifiant généré par l'application, la version et les paramètres, les noms ou pseudonymes saisis, ainsi que le nom Bluetooth, l'état de connexion, le type de transport et la batterie des appareils. Les données de match comprennent les règles, la durée, les coups, la force relative et le temps de chaque coup, les statistiques, les scores et les rangs. Pour un match admissible, l'adresse de l'appareil n'est envoyée que sous forme de hachage, jamais en clair.
+
+3. Envoi choisi par l'utilisateur
+L'option « Envoi des données du match » est désactivée par défaut. Tant qu'elle reste désactivée, les nouveaux matchs sont conservés uniquement sur le téléphone et ne figurent ni dans la base de données des matchs ni dans le classement fiable.
+
+L'envoi n'est autorisé qu'après avoir choisi « Accepter et activer ». Vous pouvez le désactiver à tout moment ; les tâches en attente sont alors supprimées, mais les données déjà envoyées ne le sont pas automatiquement.
+
+Même avec votre accord, un match complet n'est envoyé que si tous les capteurs utilisés sont certifiés par le fabricant HitArena, si les affectations restent cohérentes et si le serveur valide les données et recalcule le score. Si un seul capteur n'est pas certifié, si la certification est inconnue, si les données sont incomplètes ou si la validation échoue, le match reste local.
+
+Le registre de certification est renseigné par le fabricant à partir du nom Bluetooth et des informations de l'appareil. L'utilisateur peut seulement consulter l'état de certification.
+
+4. Contenu envoyé et affiché
+Un envoi admissible peut contenir l'identifiant et l'heure du match, les règles, les pseudonymes, les noms Bluetooth, les adresses hachées, la force et le temps de chaque coup, les statistiques par round, les résultats, les rangs et les récompenses. Le classement fiable peut afficher le pseudonyme, la catégorie, le score, le rang, l'heure et l'état de certification, mais pas l'adresse Bluetooth d'origine.
+
+5. Autres fonctions réseau et autorisations
+L'application peut utiliser le réseau pour l'authentification, la sécurité, le téléchargement des classements publics, des politiques et des ressources nécessaires. Ces requêtes ne constituent pas l'envoi d'un match complet. Les autorisations Bluetooth servent à détecter et connecter les capteurs selon le filtre existant. HitArena n'enregistre pas votre historique de localisation.
+
+6. Stockage, sécurité et droits
+Les paramètres, affectations Bluetooth, pseudonymes, choix d'envoi et résultats locaux restent sur le téléphone. Les matchs admissibles envoyés sont conservés pour les classements fiables, les contrôles et les obligations légales. Nous ne vendons pas les données personnelles et appliquons notamment le contrôle d'accès, l'isolation des services, la protection des transmissions, le hachage et la validation côté serveur.
+
+Vous pouvez modifier votre choix à tout moment et nous contacter pour demander l'accès, la correction ou la suppression des données cloud lorsque la loi le permet. Une vérification d'identité peut être nécessaire.
+
+7. Mineurs, sécurité sportive et contact
+Les mineurs doivent utiliser HitArena sous la surveillance d'un responsable légal. La force relative est une valeur brute du capteur, sans unité physique, et ne constitue ni un avis médical ni une décision sportive officielle.
+
+Responsable : Shaoxing Weimai Technology Co., Ltd.
+E-mail : zclei@vip.sina.com

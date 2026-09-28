@@ -1,0 +1,41 @@
+HitArena User Agreement
+Version: V2.0
+Effective: September 28, 2026
+
+1. Scope
+This agreement applies to the HitArena app and services provided by Shaoxing Weimai Technology Co., Ltd., including five-target Bluetooth connections, match timing and scoring, live competition, competition results and rankings, HitArena Certified Device status, and trusted online rankings. Please also read the HitArena Privacy Policy.
+
+2. Services
+HitArena can connect up to five Bluetooth sensors that satisfy the existing device-name filter, record punch counts and relative force for multiplayer matches, calculate results under Punch Count, Power, or Combined rules, and save results locally. Network features depend on permissions, connectivity, cloud availability, and the manufacturer certification registry.
+
+3. Optional Match Data Upload
+Match Data Upload is off by default. If you do not enable it, match records stay on the device and do not enter the cloud match database or trusted rankings.
+
+Selecting “Agree & Enable” authorizes HitArena to process and upload eligible match data within the Privacy Policy. You can turn the option off at any time. This stops future and unfinished uploads but does not automatically delete records already uploaded.
+
+Consent alone does not make every match eligible. The server accepts a match as trusted only if every sensor used is in the manufacturer-maintained registry, device assignments and underlying data are complete, and server-side score and security checks pass. A match involving an uncertified or unverified sensor, incomplete connection or data, or failed validation remains local only. Manufacturer certification data can be viewed but cannot be added or edited by app users.
+
+4. Uploaded and Displayed Information
+An eligible upload may include match ID and time, rules and settings, player nicknames, Bluetooth names, hashed device addresses, punch-by-punch relative force and timing, round statistics, scores, ranks, and awards. Trusted rankings may display nickname, category, score, rank, time, and certification status.
+
+Only enter player names or nicknames you are entitled to use. A multiplayer match organizer must inform participants about this agreement and the Privacy Policy and obtain appropriate permission before enabling upload. Participants who do not agree should use local-only mode.
+
+5. Scoring and Device Limitations
+The app applies the rules shown for Punch Count, Power, and Combined matches. Relative force is an uncalibrated sensor score without kilogram, kilogram-force, or newton units. Installation, sensor variance, Bluetooth conditions, punch technique, and environment can affect results. Certification confirms a registered device type and data validation; it does not guarantee error-free data or constitute an official sports ruling.
+
+6. Acceptable Use
+You must not forge, alter, replay, or mass-produce match data; impersonate a certified device or another person; bypass certification or manipulate rankings; attack, scan, reverse engineer, or disrupt the service; or submit unlawful or infringing content. We may reject data, remove trusted status, correct rankings, preserve evidence, or restrict services when misuse or anomalies are detected.
+
+7. Safety
+Use HitArena in a safe and open area, secure the equipment, and exercise within your physical condition. Stop immediately if unwell. Minors require guardian supervision. HitArena data is not medical, rehabilitation, nutrition, or health advice.
+
+8. Intellectual Property and Service Availability
+The app, interface, algorithms, scoring system, text, graphics, icons, audio, brands, and related content belong to Shaoxing Weimai Technology Co., Ltd. or lawful owners. Unauthorized copying, modification, distribution, reverse engineering, or commercial use is prohibited.
+
+Services may change or be interrupted by updates, maintenance, connectivity, operating-system limits, hardware compatibility, security risks, or force majeure. Liability is limited to the extent permitted by applicable law.
+
+9. Updates, Law, and Contact
+We may update this agreement for product, legal, or operational reasons and will provide reasonable notice of material changes. This agreement is governed by the laws of the People's Republic of China. Disputes should first be resolved through consultation and may then be brought before a court with jurisdiction.
+
+Operator: Shaoxing Weimai Technology Co., Ltd.
+Email: zclei@vip.sina.com

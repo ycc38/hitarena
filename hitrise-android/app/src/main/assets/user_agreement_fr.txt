@@ -1,0 +1,35 @@
+Accord utilisateur HitArena
+Version : V2.0
+Date d'effet : 28 septembre 2026
+
+1. Champ d'application
+Cet accord couvre l'application HitArena fournie par Shaoxing Weimai Technology Co., Ltd. : connexion Bluetooth de cinq cibles, réglage du temps et du score, match en direct, résultats, classements, affichage HitArena Certified Device et classement fiable. Veuillez également lire la Politique de confidentialité.
+
+2. Services
+HitArena peut connecter jusqu'à cinq capteurs conformes au filtre de nom existant, enregistrer le nombre de coups et leur force relative, calculer les résultats selon les règles Nombre, Puissance ou Combiné et conserver les résultats localement.
+
+3. Envoi facultatif des matchs
+L'envoi est désactivé par défaut. Sans activation, les matchs restent sur l'appareil et ne participent pas au classement fiable. « Accepter et activer » autorise le traitement décrit dans la Politique de confidentialité. Vous pouvez désactiver l'option à tout moment ; cela arrête les nouveaux envois et les tâches inachevées, sans supprimer automatiquement les données déjà reçues par le serveur.
+
+Votre accord ne suffit pas à rendre tout match admissible. Tous les capteurs utilisés doivent figurer dans le registre tenu par le fabricant, les connexions et données doivent être complètes, et le nouveau calcul ainsi que les contrôles de sécurité du serveur doivent réussir. Sinon, le match reste local. Les utilisateurs peuvent consulter, mais non ajouter ou modifier, la certification.
+
+4. Données et classement
+Un match admissible peut inclure l'identifiant et l'heure, les règles, les pseudonymes, les noms Bluetooth, les adresses hachées, la force et le temps de chaque coup, les statistiques, les scores et les rangs. Le classement peut afficher le pseudonyme, la catégorie, le résultat, le rang, l'heure et la certification.
+
+L'organisateur d'un match multijoueur doit informer les participants et obtenir l'autorisation appropriée avant d'activer l'envoi. Les participants qui refusent doivent utiliser le mode local uniquement.
+
+5. Limites et conduite
+La force relative est un score brut sans unité de kilogramme, kilogramme-force ou newton. L'installation, les différences de capteur, le Bluetooth, la technique et l'environnement peuvent influencer le résultat. La certification ne garantit pas l'absence d'erreur et ne constitue pas une décision sportive officielle.
+
+Il est interdit de falsifier, modifier ou rejouer les données, d'usurper un appareil certifié ou une personne, de contourner la certification, de manipuler le classement, d'attaquer ou de perturber le service. Nous pouvons refuser les données, retirer le statut fiable, corriger le classement ou limiter le service.
+
+6. Sécurité, propriété et disponibilité
+Utilisez l'équipement dans un espace sûr, arrêtez-vous en cas de malaise et surveillez les mineurs. Les données ne sont pas un avis médical. Les logiciels, interfaces, algorithmes, textes, images, sons et marques appartiennent à Shaoxing Weimai Technology Co., Ltd. ou à leurs titulaires légitimes.
+
+Le service peut évoluer ou être interrompu pour maintenance, réseau, compatibilité, sécurité ou force majeure. La responsabilité est limitée dans la mesure permise par la loi.
+
+7. Droit applicable et contact
+Cet accord est régi par le droit de la République populaire de Chine. Les litiges doivent d'abord faire l'objet d'une concertation, puis peuvent être soumis à la juridiction compétente.
+
+Responsable : Shaoxing Weimai Technology Co., Ltd.
+E-mail : zclei@vip.sina.com
