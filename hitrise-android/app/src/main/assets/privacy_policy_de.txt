@@ -1,0 +1,33 @@
+HitArena-Datenschutzrichtlinie
+Version: V2.0
+Gültig ab: 28. September 2026
+
+1. Geltungsbereich
+HitArena wird von Shaoxing Weimai Technology Co., Ltd. für Mehrspieler-Boxwettkämpfe bereitgestellt. Diese Richtlinie erläutert die Verarbeitung von Daten zu Bluetooth, Wettkampfregeln und -ergebnissen, Ranglisten und der HitArena Certified Device-Zertifizierung.
+
+2. Verarbeitete Daten
+Die App kann eine erzeugte Benutzer-ID, Synchronisierungscode, App- und Systemversion, Sprache und Einstellungen, eingegebene Namen oder Spitznamen, Bluetooth-Name, Verbindungsstatus, Akku und Geräteadresse sowie Regeln, Zeiten, Treffer, relative Kraft, Ergebnisse und Platzierungen verarbeiten. Bei einem zulässigen Wettkampf wird die Geräteadresse nur als Hash und nicht im Klartext hochgeladen.
+
+3. Freiwilliger Daten-Upload
+„Wettkampfdaten hochladen“ ist standardmäßig deaktiviert. Solange die Option aus ist, bleiben neue Ergebnisse auf dem Gerät und erscheinen nicht in der vertrauenswürdigen Rangliste. Sie können mit „Zustimmen und aktivieren“ einwilligen und die Option jederzeit wieder ausschalten. Dadurch werden neue und ausstehende Uploads gestoppt; bereits hochgeladene Daten werden nicht automatisch gelöscht.
+
+4. Zertifizierung und zulässige Wettkämpfe
+Ein vollständiger Wettkampf wird nur mit Einwilligung hochgeladen, wenn alle vier verwendeten Sensoren vom Hersteller zertifiziert sind, die Zielzuordnungen unverändert bleiben und der Server die vollständigen Daten validiert und die Wertung neu berechnet. Zertifizierungsdaten werden anhand der Bluetooth-Namen vom Hersteller gepflegt; die App kann sie nur abfragen und anzeigen.
+
+5. Daten eines zulässigen Wettkampfs
+Übermittelt werden können Wettkampf-ID und Zeit, Regeln, Parameter, Spitznamen, Bluetooth-Namen, Adress-Hashes, Transporttyp, relative Kraft und Zeit jedes Treffers, Statistiken, Wertungen, Platzierungen und Auszeichnungen. Vertrauenswürdige Ranglisten können Spitzname, Kategorie, Wertung, Rang, Zeit und Zertifizierungsstatus anzeigen.
+
+6. Netzwerk, Berechtigungen und Speicherung
+Bluetooth-Berechtigungen dienen dem Suchen, Verbinden und Empfangen von Sensordaten gemäß dem bestehenden Filter. Manche Android-Versionen verknüpfen den Scan mit Standortberechtigungen; HitArena speichert keinen Standortverlauf. Einstellungen, Zuordnungen, Spitznamen, Einwilligung und lokale Ergebnisse werden auf dem Gerät gespeichert.
+
+7. Sicherheit und Rechte
+Wir verkaufen keine personenbezogenen Daten. Wir nutzen angemessene Schutzmaßnahmen wie Zugriffsbeschränkung, Übertragungsschutz, Adress-Hashing, serverseitige Validierung und Prüfprotokolle. Soweit anwendbar können Sie Auskunft, Berichtigung oder Löschung verlangen; Identität und Wettkampfzuordnung müssen gegebenenfalls geprüft werden.
+
+8. Minderjährige und Sportsicherheit
+Minderjährige sollen HitArena nur unter Aufsicht verwenden. Die relative Kraft ist ein Sensorwert ohne Einheit in kg, kgf oder Newton. Sie dient nur dem Vergleich nach HitArena-Regeln und ist weder medizinischer Rat noch eine offizielle Sportentscheidung.
+
+9. Änderungen und Kontakt
+Wir können diese Richtlinie aus produktbezogenen, rechtlichen oder betrieblichen Gründen aktualisieren und über wesentliche Änderungen angemessen informieren.
+
+Betreiber: Shaoxing Weimai Technology Co., Ltd.
+E-Mail: zclei@vip.sina.com

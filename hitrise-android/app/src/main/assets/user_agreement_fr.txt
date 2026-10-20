@@ -3,10 +3,10 @@ Version : V2.0
 Date d'effet : 28 septembre 2026
 
 1. Champ d'application
-Cet accord couvre l'application HitArena fournie par Shaoxing Weimai Technology Co., Ltd. : connexion Bluetooth de cinq cibles, réglage du temps et du score, match en direct, résultats, classements, affichage HitArena Certified Device et classement fiable. Veuillez également lire la Politique de confidentialité.
+Cet accord couvre l'application HitArena fournie par Shaoxing Weimai Technology Co., Ltd. : connexion Bluetooth de quatre cibles, réglage du temps et du score, match en direct, résultats, classements, affichage HitArena Certified Device et classement fiable. Veuillez également lire la Politique de confidentialité.
 
 2. Services
-HitArena peut connecter jusqu'à cinq capteurs conformes au filtre de nom existant, enregistrer le nombre de coups et leur force relative, calculer les résultats selon les règles Nombre, Puissance ou Combiné et conserver les résultats localement.
+HitArena peut connecter jusqu'à quatre capteurs conformes au filtre de nom existant, enregistrer le nombre de coups et leur force relative, calculer les résultats selon les règles Nombre, Puissance ou Combiné et conserver les résultats localement.
 
 3. Envoi facultatif des matchs
 L'envoi est désactivé par défaut. Sans activation, les matchs restent sur l'appareil et ne participent pas au classement fiable. « Accepter et activer » autorise le traitement décrit dans la Politique de confidentialité. Vous pouvez désactiver l'option à tout moment ; cela arrête les nouveaux envois et les tâches inachevées, sans supprimer automatiquement les données déjà reçues par le serveur.

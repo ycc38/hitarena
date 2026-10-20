@@ -1,0 +1,33 @@
+HitArena-Nutzungsvereinbarung
+Version: V2.0
+Gültig ab: 28. September 2026
+
+1. Geltungsbereich
+Diese Vereinbarung gilt für die HitArena-App und Dienste von Shaoxing Weimai Technology Co., Ltd., einschließlich Bluetooth-Verbindungen für vier Ziele, Zeit- und Wertungseinstellungen, Live-Wettkampf, Ergebnisse, Ranglisten, HitArena Certified Device und vertrauenswürdige Online-Ranglisten. Lesen Sie auch die Datenschutzrichtlinie.
+
+2. Dienste
+HitArena kann bis zu vier Sensoren verbinden, die dem bestehenden Namensfilter entsprechen, Treffer und relative Kraft erfassen, Ergebnisse nach Trefferzahl-, Kraft- oder Kombinationsregeln berechnen und lokal speichern. Netzwerkfunktionen hängen von Berechtigungen, Verbindung, Dienstverfügbarkeit und dem Herstellerregister ab.
+
+3. Freiwilliger Upload
+Der Upload von Wettkampfdaten ist standardmäßig deaktiviert. Mit „Zustimmen und aktivieren“ erlauben Sie die Verarbeitung und den Upload zulässiger Wettkämpfe gemäß der Datenschutzrichtlinie. Sie können die Option jederzeit ausschalten. Ein Wettkampf gilt nur dann als vertrauenswürdig, wenn alle Sensoren zertifiziert, Zuordnungen und Daten vollständig und die serverseitigen Wertungs- und Sicherheitsprüfungen erfolgreich sind.
+
+4. Hochgeladene und angezeigte Daten
+Ein zulässiger Upload kann ID und Zeit, Regeln, Einstellungen, Spitznamen, Bluetooth-Namen, Adress-Hashes, Kraft und Zeit jedes Treffers, Statistiken, Wertungen, Ränge und Auszeichnungen enthalten. Verwenden Sie nur Namen, zu deren Nutzung Sie berechtigt sind. Der Veranstalter muss Teilnehmer informieren und vor dem Aktivieren des Uploads die erforderliche Zustimmung einholen.
+
+5. Wertung und Gerätegrenzen
+Die App verwendet die angezeigten Regeln für Trefferzahl-, Kraft- und Kombinationswettkämpfe. Die relative Kraft ist ein nicht kalibrierter Sensorwert ohne Einheit in kg, kgf oder Newton. Installation, Sensorabweichung, Bluetooth, Technik und Umgebung können Ergebnisse beeinflussen. Eine Zertifizierung garantiert keine fehlerfreien Daten und ist keine offizielle Sportentscheidung.
+
+6. Zulässige Nutzung
+Es ist untersagt, Daten zu fälschen, zu verändern oder wiederzugeben, Geräte oder Personen zu imitieren, Zertifizierungen zu umgehen, Ranglisten zu manipulieren, den Dienst anzugreifen, zu analysieren, zurückzuentwickeln oder zu stören sowie rechtswidrige Inhalte einzureichen. Bei Missbrauch oder Auffälligkeiten können Daten abgelehnt, der Vertrauensstatus entzogen, Ranglisten korrigiert oder Dienste eingeschränkt werden.
+
+7. Sicherheit
+Verwenden Sie HitArena in einem sicheren, freien Bereich, sichern Sie die Ausrüstung und trainieren Sie entsprechend Ihrer körperlichen Verfassung. Beenden Sie das Training bei Beschwerden. Minderjährige benötigen Aufsicht. HitArena-Daten sind keine medizinische, Rehabilitations-, Ernährungs- oder Gesundheitsberatung.
+
+8. Geistiges Eigentum und Verfügbarkeit
+App, Oberfläche, Algorithmen, Wertung, Texte, Grafiken, Symbole, Audio und Marken gehören Shaoxing Weimai Technology Co., Ltd. oder rechtmäßigen Rechteinhabern. Unerlaubtes Kopieren, Ändern, Verteilen, Zurückentwickeln oder kommerzielles Nutzen ist verboten. Dienste können durch Wartung, Verbindung, Kompatibilität, Sicherheitsrisiken oder höhere Gewalt geändert oder unterbrochen werden.
+
+9. Änderungen, Recht und Kontakt
+Wir können diese Vereinbarung aus produktbezogenen, rechtlichen oder betrieblichen Gründen aktualisieren. Es gilt das Recht der Volksrepublik China. Streitigkeiten sollen zunächst durch Beratung und anschließend vor einem zuständigen Gericht geklärt werden.
+
+Betreiber: Shaoxing Weimai Technology Co., Ltd.
+E-Mail: zclei@vip.sina.com

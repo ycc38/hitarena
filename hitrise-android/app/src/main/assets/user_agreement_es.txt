@@ -1,0 +1,33 @@
+Acuerdo de usuario de HitArena
+Versión: V2.0
+Vigente desde: 28 de septiembre de 2026
+
+1. Ámbito
+Este acuerdo se aplica a la aplicación y los servicios HitArena de Shaoxing Weimai Technology Co., Ltd., incluidas las conexiones Bluetooth de cuatro objetivos, tiempo y puntuación, competición en vivo, resultados, clasificaciones, HitArena Certified Device y clasificaciones fiables. Lea también la Política de privacidad.
+
+2. Servicios
+HitArena puede conectar hasta cuatro sensores que cumplan el filtro de nombre existente, registrar golpes y fuerza relativa, calcular resultados conforme a las reglas de Número, Potencia o Combinada y guardar resultados localmente. Las funciones de red dependen de permisos, conectividad, disponibilidad del servicio y el registro del fabricante.
+
+3. Carga opcional
+La carga de datos está desactivada de forma predeterminada. «Aceptar y activar» autoriza el tratamiento y la carga de partidas aptas conforme a la Política de privacidad. Puede desactivarla en cualquier momento. Solo se acepta una partida como fiable si todos los sensores están certificados, las asignaciones y los datos están completos y se superan las comprobaciones de puntuación y seguridad del servidor.
+
+4. Información cargada y mostrada
+Una carga apta puede incluir ID y hora, reglas, ajustes, apodos, nombres Bluetooth, hashes de direcciones, fuerza y tiempo de cada golpe, estadísticas, puntuaciones, posiciones y premios. Use únicamente nombres o apodos para los que tenga autorización. El organizador debe informar a los participantes y obtener el permiso correspondiente antes de activar la carga.
+
+5. Puntuación y límites del dispositivo
+La aplicación aplica las reglas mostradas para partidas de Número, Potencia y Combinada. La fuerza relativa es una puntuación no calibrada sin unidades de kg, kgf o newton. La instalación, variación del sensor, Bluetooth, técnica y entorno pueden afectar al resultado. La certificación no garantiza datos sin errores ni constituye una decisión deportiva oficial.
+
+6. Uso aceptable
+No puede falsificar, modificar o reproducir datos; suplantar dispositivos o personas; eludir la certificación; manipular clasificaciones; atacar, analizar, descompilar o interrumpir el servicio; ni enviar contenido ilegal. Podemos rechazar datos, retirar el estado fiable, corregir clasificaciones o limitar el servicio ante abusos o anomalías.
+
+7. Seguridad
+Use HitArena en una zona segura y despejada, asegure el equipo y haga ejercicio dentro de sus condiciones físicas. Deténgase si se encuentra mal. Los menores requieren supervisión. Los datos de HitArena no son asesoramiento médico, de rehabilitación, nutrición o salud.
+
+8. Propiedad intelectual y disponibilidad
+La aplicación, interfaz, algoritmos, puntuación, textos, gráficos, iconos, audio y marcas pertenecen a Shaoxing Weimai Technology Co., Ltd. o a sus titulares legítimos. Se prohíbe la copia, modificación, distribución, ingeniería inversa o uso comercial no autorizado. Los servicios pueden cambiar o interrumpirse por mantenimiento, conectividad, compatibilidad, seguridad o fuerza mayor.
+
+9. Actualizaciones, ley y contacto
+Podemos actualizar este acuerdo por motivos de producto, legales u operativos. Se rige por las leyes de la República Popular China. Las controversias deberán resolverse primero mediante consulta y, después, ante un tribunal competente.
+
+Operador: Shaoxing Weimai Technology Co., Ltd.
+Correo electrónico: zclei@vip.sina.com

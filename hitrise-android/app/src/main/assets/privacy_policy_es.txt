@@ -1,0 +1,33 @@
+Política de privacidad de HitArena
+Versión: V2.0
+Vigente desde: 28 de septiembre de 2026
+
+1. Ámbito
+HitArena, proporcionada por Shaoxing Weimai Technology Co., Ltd., se utiliza para competiciones de boxeo multijugador. Esta política explica el tratamiento de datos relacionados con Bluetooth, reglas y resultados de partidas, clasificaciones y la certificación HitArena Certified Device.
+
+2. Datos tratados
+La aplicación puede tratar el identificador de usuario generado, código de sincronización, versión de la aplicación y del sistema, idioma y ajustes; nombres o apodos introducidos; nombre, estado, batería y dirección del dispositivo Bluetooth; reglas, tiempos, golpes, fuerza relativa, resultados y posiciones. En una partida apta, la dirección se carga únicamente como hash, nunca en texto claro.
+
+3. Carga opcional de datos
+La opción «Carga de datos de partida» está desactivada de forma predeterminada. Mientras permanezca desactivada, los resultados nuevos se guardan solo en el dispositivo y no entran en la clasificación fiable. Puede activarla mediante «Aceptar y activar» y desactivarla en cualquier momento. La desactivación detiene cargas nuevas o pendientes, pero no elimina automáticamente datos ya cargados.
+
+4. Certificación y partidas aptas
+Una partida completa se carga únicamente con el consentimiento del usuario, cuando los cuatro sensores utilizados están certificados por el fabricante, las asignaciones de objetivo permanecen coherentes y el servidor valida los datos y recalcula la puntuación. La certificación se basa en nombres Bluetooth y datos registrados por el fabricante; la aplicación solo puede consultarla y mostrarla.
+
+5. Datos de una partida apta
+Se pueden enviar el ID y la hora de la partida, reglas, parámetros, apodos, nombres Bluetooth, hashes de direcciones, tipo de transporte, fuerza y tiempo de cada golpe, estadísticas, puntuaciones, posiciones y premios. La clasificación fiable puede mostrar apodo, categoría, puntuación, posición, hora y estado de certificación.
+
+6. Red, permisos y almacenamiento
+Bluetooth se usa para buscar, conectar y recibir datos de sensores conforme al filtro existente. Algunas versiones de Android asocian el escaneo con el permiso de ubicación; HitArena no registra el historial de ubicación. Ajustes, asignaciones, apodos, consentimiento y resultados locales se guardan en el dispositivo.
+
+7. Seguridad y derechos
+No vendemos información personal. Aplicamos controles razonables, entre ellos restricción de acceso, protección de transmisión, hash de direcciones, validación del servidor y registros de auditoría. Puede solicitar acceso, corrección o eliminación cuando corresponda; puede ser necesario verificar identidad y titularidad de la partida.
+
+8. Menores y seguridad deportiva
+Los menores deben utilizar HitArena bajo supervisión. La fuerza relativa es una puntuación del sensor sin unidad de kg, kgf o newton; sirve para comparar conforme a las reglas de HitArena y no constituye consejo médico ni decisión deportiva oficial.
+
+9. Actualizaciones y contacto
+Podemos actualizar esta política por motivos de producto, legales u operativos y avisaremos razonablemente de cambios importantes.
+
+Operador: Shaoxing Weimai Technology Co., Ltd.
+Correo electrónico: zclei@vip.sina.com

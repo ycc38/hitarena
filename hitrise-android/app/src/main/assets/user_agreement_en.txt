@@ -3,10 +3,10 @@ Version: V2.0
 Effective: September 28, 2026
 
 1. Scope
-This agreement applies to the HitArena app and services provided by Shaoxing Weimai Technology Co., Ltd., including five-target Bluetooth connections, match timing and scoring, live competition, competition results and rankings, HitArena Certified Device status, and trusted online rankings. Please also read the HitArena Privacy Policy.
+This agreement applies to the HitArena app and services provided by Shaoxing Weimai Technology Co., Ltd., including four-target Bluetooth connections, match timing and scoring, live competition, competition results and rankings, HitArena Certified Device status, and trusted online rankings. Please also read the HitArena Privacy Policy.
 
 2. Services
-HitArena can connect up to five Bluetooth sensors that satisfy the existing device-name filter, record punch counts and relative force for multiplayer matches, calculate results under Punch Count, Power, or Combined rules, and save results locally. Network features depend on permissions, connectivity, cloud availability, and the manufacturer certification registry.
+HitArena can connect up to four Bluetooth sensors that satisfy the existing device-name filter, record punch counts and relative force for multiplayer matches, calculate results under Punch Count, Power, or Combined rules, and save results locally. Network features depend on permissions, connectivity, cloud availability, and the manufacturer certification registry.
 
 3. Optional Match Data Upload
 Match Data Upload is off by default. If you do not enable it, match records stay on the device and do not enter the cloud match database or trusted rankings.
