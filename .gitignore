@@ -1,5 +1,6 @@
 # Android/Gradle build output and machine-local configuration
 **/.gradle/
+**/.kotlin/
 **/build/
 **/local.properties
 **/.idea/
@@ -20,6 +21,9 @@ server/
 *serverset*.txt
 *.pem
 *.key
+*.jks
+*.keystore
+keystore.properties
 
 # Editor/OS/temp files
 .DS_Store
